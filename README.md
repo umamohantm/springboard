@@ -20,4 +20,4 @@ Guided Capstone is available in separate repository Guided-Capstone-
 13. [GridSearchKNN_Case_Study](https://github.com/umamohantm/springboard/blob/master/GridSearchKNN/GridSearchKNN_Case_Study.ipynb)
 14. [Logistic Regression Advanced Case Study](https://github.com/umamohantm/springboard/blob/master/logistic%20regression/Springboard%20Logistic%20Regression%20Advanced%20Case%20Study.ipynb)
 15. [api_data_wrangling_mini_project](https://github.com/umamohantm/springboard/blob/master/api_data_wrangling_mini_project.ipynb)
-
+16. [LondonHousing_Case_Study](https://github.com/umamohantm/springboard/blob/master/Case%20Study%20-%20London%20Housing.ipynb)
