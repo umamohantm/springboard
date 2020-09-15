@@ -3,6 +3,8 @@ COVID -19 ANALYSIS AND PREDICTION
 
 
 CONTEXT:
+
+
 COVID-19 is an infectious disease caused by severe acute respiratory syndrome corona virus 2. It was first identified in December 2019 in Wuhan, Hubei China and resulted in an ongoing pandemic. As of 27 July 2020, more than 16.2 million cases have been reported across 188 countries and territories, resulting in more than 647,000 deaths. More than 9.36 million people have recovered. The virus is primarily spread between people during close contact, most often via small droplets produced by coughing, sneezing, and talking. Preventive measures include social distancing, washing hands with soap and water often, sanitizing frequently touched surfaces, wear a face mask, cover coughs and sneezes with a tissue, avoid sharing personal household items, etc,. Social distancing strategies aim to reduce contact of infected persons with large groups by closing schools and workplaces, restricting travel, and cancelling large public gatherings.
 
 
