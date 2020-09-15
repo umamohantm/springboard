@@ -14,4 +14,3 @@ This project deals with two sections.
 
 2. Second section deals with the prediction of total covid-19 infected people in the upcoming 10 days by considering the infected graph for the past few months. Here ARIMA model is used for predicting the covid-19 infected people count. 
 
-
