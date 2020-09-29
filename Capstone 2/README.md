@@ -1,5 +1,7 @@
 
 Abnormality detection in bone X-Ray radiographs 
+
+
 Overview
 Bio-medical image analysis is an interdisciplinary field which includes: biology, physics, medicine and engineering. It deals with application of image processing techniques to biological or medical problems. Medical images to be analyzed contain a lot of information regarding the anatomical structure under investigation to reveal valid diagnosis and thereby helping doctors to choose adequate therapy. Doctors usually analyse these medical images manually through visual interpretation.
 
