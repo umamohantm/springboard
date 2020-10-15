@@ -27,6 +27,6 @@ Using OpenCV library image is enhanced. The enhancements techniques used in this
 4. For blurring and smoothing the image cv2.GaussianBlur() is used.<br>
 
 Before and After Image Enhancement
-![Image](location of image in repo.type)
+![Image](https://github.com/umamohantm/springboard/blob/master/Capstone%202/data/1.PNG)
 Image augumentation is done using ImageDataGenerator from Keras
 
