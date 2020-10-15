@@ -13,3 +13,4 @@ Diseases and injuries to the bone are the major contributing factors in causing 
 DataSet
 
 Dataset used in this project is called MURA. MURA is one of the largest public radiographic image datasets. MURA is a dataset of musculoskeletal radiographs consisting of 14,863 studies from 12,173 patients, with a total of 40,561 multi-view radiographic images. Each belongs to one of seven standard upper extremity radiographic study types: elbow, finger, forearm, hand, humerus, shoulder, and wrist. You can download the dataset from the official contest website here. https://stanfordmlgroup.github.io/competitions/mura/
+
