@@ -26,7 +26,7 @@ Using OpenCV library image is enhanced. The enhancements techniques used in this
 3. After detecting the edges the original image is cropped based on the dimensions obtained by detecting the edges of the original image.
 4. For blurring and smoothing the image cv2.GaussianBlur() is used.<br>
 
-Before and After Image Enhancement
-![Image](https://github.com/umamohantm/springboard/blob/master/Capstone%202/data/1.PNG)
+Before and After Image Enhancement<br>
+![Image](https://github.com/umamohantm/springboard/blob/master/Capstone%202/data/1.PNG)<br>
 Image augumentation is done using ImageDataGenerator from Keras
 
