@@ -22,7 +22,7 @@ Having an Imbalanced Dataset? This is checked in this step. The training and val
 ### Preprocessing : <br> 
 Using OpenCV library image is enhanced. First the image contrast is increased using Contrast Limited Adaptive Histogram Equliser (CLAHE).For detecting the edges cv2.canny() is used.After detecting the edges the original image is cropped based on the dimensions obtained by detecting the edges of the original image. For blurring and smoothing the image cv2.GaussianBlur() is used.<br>
 
-Before and After Image Enhancement<br>
+## Before and After Image Enhancement<br>
 ![Image](https://github.com/umamohantm/springboard/blob/master/Capstone%202/data/Before_and_after.PNG)<br>
 <br>
 Image augumentation is done using ImageDataGenerator from Keras
