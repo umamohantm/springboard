@@ -28,6 +28,8 @@ Modelling :The approach used in this project is time series analysis and the mod
 # Results :<br>
 
 ### Actual Vs Predicted(India, August,2020)
+![Image](https://github.com/umamohantm/springboard/blob/master/Capstone%201/Data/India_table.PNG)
+
 
 Covid-19 has infected over 19 million people worldwide and claimed more than 721K lives with Europe, the United States, Brazil and India overtaking China where the pandemic started last December.The drastic outbreak spread is influenced by the countries various factors like strictness of lockdown, population density, hygiene and hand washing facilities, smoking population. COVID-19 is still an unclear infectious disease, which means we can only obtain an accurate ARIMA prediction after the outbreak ends.
 This projects helps to be little aware of the kind of situation in the next upcoming days so that we can be prepared to tackle the situation and to help reduce risk.
