@@ -19,12 +19,11 @@ COVID-19 is an infectious disease caused by severe acute respiratory syndrome co
 
 # Approach
 ## This problem contains the following steps 
-## Data Collection :<br>
-The data used in this project is a collection of the COVID-19 data maintained by Our World in Data. It is updated daily and includes data on confirmed cases, deaths, and testing, as well as other variables of potential interest. <br>
-## Data Wrangling : <br>
-The data originally obtained was in CSV file and directly loaded into the pandas data frame . The NAN values are filled with forward fill, backward fill, with mean and median, and interpolate. <br>
-## Exploratory Data Analysis: <br>
-This section involves the visualization part to know the insights from the dataset. <br>
+Data Collection : The data used in this project is a collection of the COVID-19 data maintained by Our World in Data. It is updated daily and includes data on confirmed cases, deaths, and testing, as well as other variables of potential interest. <br>
+Data Wrangling : The data originally obtained was in CSV file and directly loaded into the pandas data frame . The NAN values are filled with forward fill, backward fill, with mean and median, and interpolate. <br>
+Exploratory Data Analysis:This section involves the visualization part to know the insights from the dataset. <br>
+
+
 ## Modelling :<br>
 The approach used in this project is time series analysis and the model applied is ARIMA (Autoregressive Integrated Moving Average). The accuracy is measure using AIC (The Akaike Information Critera).<br>
 
