@@ -1,7 +1,7 @@
 
 COVID -19 ANALYSIS AND PREDICTION 
 
-![Imgur Image](http://i.imgur.com/zTONrOD)
+![Image](https://github.com/umamohantm/springboard/blob/master/Capstone%201/Data/Covid.png)
 
 
 CONTEXT:
