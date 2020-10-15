@@ -22,10 +22,13 @@ COVID-19 is an infectious disease caused by severe acute respiratory syndrome co
 Data Collection : The data used in this project is a collection of the COVID-19 data maintained by Our World in Data. It is updated daily and includes data on confirmed cases, deaths, and testing, as well as other variables of potential interest. <br>
 Data Wrangling : The data originally obtained was in CSV file and directly loaded into the pandas data frame . The NAN values are filled with forward fill, backward fill, with mean and median, and interpolate. <br>
 Exploratory Data Analysis:This section involves the visualization part to know the insights from the dataset. <br>
-
-
-## Modelling :<br>
-The approach used in this project is time series analysis and the model applied is ARIMA (Autoregressive Integrated Moving Average). The accuracy is measure using AIC (The Akaike Information Critera).<br>
+Modelling :The approach used in this project is time series analysis and the model applied is ARIMA (Autoregressive Integrated Moving Average). The accuracy is measure using AIC (The Akaike Information Critera).<br>
 
 
 # Results :<br>
+
+### Actual Vs Predicted(India, August,2020)
+
+Covid-19 has infected over 19 million people worldwide and claimed more than 721K lives with Europe, the United States, Brazil and India overtaking China where the pandemic started last December.The drastic outbreak spread is influenced by the countries various factors like strictness of lockdown, population density, hygiene and hand washing facilities, smoking population. COVID-19 is still an unclear infectious disease, which means we can only obtain an accurate ARIMA prediction after the outbreak ends.
+This projects helps to be little aware of the kind of situation in the next upcoming days so that we can be prepared to tackle the situation and to help reduce risk.
+
