@@ -28,7 +28,6 @@ Using OpenCV library image is enhanced. The enhancements techniques used in this
 
 Before and After Image Enhancement<br>
 ![Image](https://github.com/umamohantm/springboard/blob/master/Capstone%202/data/1.PNG)<br>
-
 <br>
 Image augumentation is done using ImageDataGenerator from Keras
 
