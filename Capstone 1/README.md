@@ -28,7 +28,7 @@ Modelling :The approach used in this project is time series analysis and the mod
 # Results :<br>
 
 ### Actual Vs Predicted(India, August,2020)
-![Image](https://github.com/umamohantm/springboard/blob/master/Capstone%201/Data/India_table.PNG)
+![Image](https://github.com/umamohantm/springboard/blob/master/Capstone%201/Data/India_table.PNG)<br>
 The AIC value is 523.422.
 
 Covid-19 has infected over 19 million people worldwide and claimed more than 721K lives with Europe, the United States, Brazil and India overtaking China where the pandemic started last December.<br>
